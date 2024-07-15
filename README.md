@@ -1,4 +1,3 @@
 # Netflix-homepage
-<h2>Go Ahead!!</h2>
-<p>Have a good time...</p>
- 
+<h2>Visit on our hosted page</h2>
+<a href="https://amritrv2604.github.io/Netflix-homepage/">Netflix Homepage</a>
